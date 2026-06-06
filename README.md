@@ -10,7 +10,7 @@ VendorBridge is a centralized, scalable enterprise ERP platform mimicking core m
 - **Backend**: Node.js + Express.js REST API server.
 - **Database**: SQLite using Node's native `node:sqlite` module, enforcing database-level foreign key integrity with cascading deletes. No native C++ compiler packages required!
 - **Security**: Strict cryptographic signature session handling (stateless signed tokens) and secure SHA-256 salted password hashing. Role-Based Access Control (RBAC) middleware limits endpoints dynamically.
-- **Print/PDF Engine**: Responsive custom print styles enabling standard browser prints or local PDF downloads.
+- **Print/PDF Engine**: Responsive custom print styles enabling standard browser prints or local PDF downloads..
 
 ---
 
