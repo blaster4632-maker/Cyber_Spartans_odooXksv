@@ -67,7 +67,7 @@ In the top right of the application header, a floating dropdown widget named **"
 
 ## 🔄 Core Business Process Lifecycle
 
-1. **RFQ(Request For Quotation) Dispatch**: Log in as **Procurement Officer** -> Click **Create New RFQ** -> Input titles, line items, and select specific vendors. Click Submit.
+1. **RFQ(Request For Quotations) Dispatch**: Log in as **Procurement Officer** -> Click **Create New RFQ** -> Input titles, line items, and select specific vendors. Click Submit.
 2. **Vendor Bidding**: Click the **Switch Role** dropdown -> Select **Apex Tech (Vendor)** -> Go to **Bidding Workspace** -> Select the RFQ and input your bid (e.g. Unit Price, delivery timeline, notes) -> Submit.
 3. **Closing Bids**: Switch back to **Procurement Officer** -> Go to **RFQ Engine** -> Click **Close Bidding** next to the RFQ to lock submissions and prepare for review.
 4. **Side-by-Side Comparison**: In RFQ Engine, click **Compare Bids** to view a grid comparing bids side-by-side (the lowest price is automatically highlighted in emerald). Click **Select Winning Bid**.
